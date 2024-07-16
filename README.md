@@ -2,7 +2,7 @@
 #!/usr/bin/python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "RaykujanK13"
+        self.name = "Prabu Negara Wiradibrata"
         self.role = "Software Engineer"
         self.language_spoken = ["ina_INDO", "en_US"]
     def say_hi(self):
@@ -65,6 +65,6 @@ me.say_hi()
 
 
 ## Contact
-- [PNW6765](https://www.instagram.com/raykujank13/) on Instagram
-- [WA Suport](https://wa.me/087862740166)
-- [kanata#0370](./) on Discord
+- [PNW6765](https://www.instagram.com/pnw765/) on Instagram
+- [WA Suport](https://wa.me/087862740166) on Whatsapp
+
