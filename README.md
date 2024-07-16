@@ -65,6 +65,6 @@ me.say_hi()
 
 
 ## Contact
-- [PNW6765](https://www.instagram.com/pnw765/) on Instagram
+- [PNW765](https://www.instagram.com/pnw765/) on Instagram
 - [WA Suport](https://wa.me/087862740166) on Whatsapp
 
