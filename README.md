@@ -65,6 +65,6 @@ me.say_hi()
 
 
 ## Contact
-- [RaykujanK13](https://www.instagram.com/raykujank13/) on Instagram
-- [Discord Support](https://discord.gg/ZK88kBqK2u)
+- [PNW6765](https://www.instagram.com/raykujank13/) on Instagram
+- [WA Suport](https://wa.me/087862740166)
 - [kanata#0370](./) on Discord
