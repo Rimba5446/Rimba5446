@@ -63,8 +63,3 @@ me.say_hi()
 ![](https://img.shields.io/badge/Nodemon-76D04B?logo=Nodemon&logoColor=white)
 ![](https://img.shields.io/badge/PyPI-3775A9?logo=PyPI&logoColor=white)
 
-
-## Contact
-- [PNW765](https://www.instagram.com/pnw765/) on Instagram
-- [WA Suport](https://wa.me/087862740166) on Whatsapp
-
