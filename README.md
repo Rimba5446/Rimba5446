@@ -2,7 +2,7 @@
 #!/usr/bin/python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "Prabu Negara Wiradibrata"
+        self.name = "Rimba Karang Jati"
         self.role = "Software Engineer"
         self.language_spoken = ["ina_INDO", "en_US"]
     def say_hi(self):
